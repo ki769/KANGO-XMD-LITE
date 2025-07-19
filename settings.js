@@ -1,12 +1,12 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : KANGO-XMD 
-// @author : Hector 
+// @project_name : UNBANNED-TECH
+// @author : UNBANNED 
 // @telegram : http://t.me/official_kango
-// @github : OfficialKango
-// @whatsapp : +233509977126
+// @github : OfficialUNBANNED
+// @whatsapp : +263776695904
 
-//----------------------[ KANGO-XMD ]----------------------//
+//----------------------[ UNBANNED-TECH ]----------------------//
 
 const fs = require('fs')
 const { color } = require('./kango/color')
@@ -20,25 +20,25 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'KANGO-XMD' 
+global.botname = process.env.BOT_NAME || 'UNBANNED-TECH' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '263776695904' 
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['233509977126', '233577860202'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['263776695904', '263776695904'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || 'UNBANNED' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "KANGO-XMD" 
+global.packname = process.env.STICKER_PACK_NAME || "UNBANNED-TECH" 
 
 //--------------[ COUNTRY TIMEZONE ]------------//
 
@@ -49,7 +49,7 @@ global.timezones = 'Africa/Accra';  // Set this to you timezone
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Hector" 
+global.author = process.env.STICKER_AUTHOR_NAME || "UNBANNED" 
 
 //----------------[ GITHUB DATABASE ]-----------------//
 
@@ -68,7 +68,7 @@ global.wm = process.env.GL_WM || "> ©KANGO-XMD"
 
 global.mess = { 
   done: '*Done*', 
-  success: '©kango-xmd', 
+  success: 'UNBANNED-TECH', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
@@ -85,4 +85,4 @@ fs.watchFile(file, () => {
   require(file)
 })
 
-//----------------------[ KANGO-XMD ]----------------------//
+//----------------------[ UNBANNED-TECH ]----------------------//
