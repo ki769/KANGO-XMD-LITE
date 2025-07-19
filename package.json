@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Hector Manuel",
+  "author": "UNBANNED TECH",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "github:Drayyyxd/XD-Baileys",
