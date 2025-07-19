@@ -1,5 +1,5 @@
 {
-  "name": "KANGO-XMD",
+  "name": "UNBANNED-TECH",
   "version": "2.4.5",
   "description": "KANGO, the best WhatsApp Bot",
   "logo": "https://i.imgur.com/1DkLGVk.jpeg",
@@ -16,27 +16,27 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "Enter your bot name here",
+      "description": "UNBANNED-TECH",
       "value": "Kango-Bot",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
+      "description": "263776695904",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "vpn assistant unbanned",
       "value": "",
       "required": true
     },
     "STICKER_PACK_NAME": {
-      "description": "Sticker pack name",
-      "value": "Kango",
+      "description": "🤗",
+      "value": "UNBANNED",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
-      "description": "Sticker author name",
+      "description": "💁",
       "value": "Kango",
       "required": false
     },
