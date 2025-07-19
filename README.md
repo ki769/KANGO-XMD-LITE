@@ -1,7 +1,7 @@
 
 
 <img align="center" height="auto"
-src="https://i.imgur.com/1DkLGVk.jpeg">
+src="https://i.supaimg.com/8e3b2a3e-7c46-46f7-bd8d-ac20b4c95bf0.jpg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=K+A+N+G+O+X+M+D+▇)](https://git.io/typing-svg)
 <br>
@@ -31,7 +31,7 @@ src="https://i.imgur.com/1DkLGVk.jpeg">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `KANGO-XMD INSTALLATION`
+## 🛠️ `UNBANNED-TECH INSTALLATION`
 
 
 
